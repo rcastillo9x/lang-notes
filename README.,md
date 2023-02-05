@@ -1,0 +1,187 @@
+# multilanguage
+## Objectives
+
+This repository summarizes the relevant aspects of the following languages:
+# Server oriented
+- Rust
+- Go
+- Zig
+
+# Functional oriented
+- Clojure
+- Racket
+
+# Script oriented
+- Typescript
+- Julia
+
+# Mobile oriented
+- Dark
+- Swift
+
+The topics to be reviewed in each language are as follows
+
+## Prerequisites
+* Memory Management
+    * Stack
+    * Head
+    * Pointers
+* Garbage Collector
+
+## Basic Features
+* Anatomy of a Program
+* Main
+* Comments
+* Console Input
+* Console Ouput
+* Compile / Debug
+* Output Console
+    * Format output   
+
+## Variables,System Types & Mutability
+
+### System data types
+
+#### Primitive types
+* Constant
+* Numbers
+    * Integer
+        * Signed
+        * Unsigned
+* Floating Point
+    * 32bit
+    * 64bit
+* Characters & Strings
+    * Concatenation
+* Boolean
+* Date, Time & Datetime
+
+#### Composite types
+* Array
+* Enum
+    * Pattern Matching
+* Structure
+    * Methods
+    * Lifetimes
+* Slice
+* Tuples
+* Dic
+* Collections
+    * Vectors
+    * Map
+    * Sets
+
+#### Special types
+* Null value 
+* Option
+* Pointers & Address
+* Smart Pointers
+
+
+#### Variables, values an pointers
+
+* Declaring Variables
+    * Explicit
+    * Implicit
+* Group of declarations
+* Multiple declarations inline
+* Check Type
+* Casting Data Types
+* Mutability / Immutability
+
+## Flow
+
+### Operators
+* Math Operators
+* Logic Operators
+* Bitwise Operators
+
+### Decision
+    * Simple
+    * Nested
+    * Multiple
+### Loop
+    * Simple
+        * While
+        * Loop
+        * For
+    * Continue & Escaping
+
+## Functions
+    * Declaration
+    * Use
+    * Recursion
+    * Closures
+
+
+## Error Handling
+* Error
+* Recoverable Errors
+* Catching Errors
+* Error Propagation
+
+## Modules & Library
+* Modules
+* Library
+* How to structure projects
+
+## Standard Libray
+
+## Memory Management
+* Stack
+* Heap
+* Static Memory
+* Ownership
+* Borrowing
+* Lifetime
+* Scope, Pointers and Heap
+* OwnerShip and Borrowing
+* Shallow and Deep Copy
+
+
+## Testing
+* Test Setup
+* Assertions
+
+## Generic
+* Generic types
+* Constraints
+
+## Asynchronous Programming
+
+## Concurrency & Parallelism
+
+## Unsafe code && FFI
+
+## The Macro System
+
+## Functional paradigm 
+
+## Data structure
+
+## Web development
+
+## Event Source
+* Kafka
+* RabbitMQ
+* Nios
+
+## Uses cases
+
+* Building cli apps
+* Building APIs
+* Building Microservices
+* Building & Deployment
+* WebAssembly
+* Frameworks
+* Database Integration
+* Blockchain & Smart Contracts
+* Artificial Inteligent
+
+
+
+
+
+
+
+
